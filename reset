@@ -1,0 +1,7 @@
+git reset HEAD file-name
+
+git reset --soft cid
+
+git reset --mixed cid
+
+
