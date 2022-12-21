@@ -5,3 +5,5 @@ be happy man
 Fuck that what you wnat 
 dont care of others
 kriya yoga 
+Origin main 
+git fetch 
